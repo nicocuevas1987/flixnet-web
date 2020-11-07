@@ -1,0 +1,18 @@
+{
+    "name": "FlixNet",
+    "short_name": "FXNet",
+    "start_url": "index.html",
+    "display": "standalone",
+    "baground_color": "#fffff",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "img/icon-app.png",
+        "type": "image/png",
+        "sizes": "144x144",
+        "density": "3.0"
+      }
+    ]
+  }
+  
